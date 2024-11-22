@@ -118,6 +118,8 @@ Common payment method codes you can use:
 - `OVO` - OVO
 - `SHOPEEPAY` - ShopeePay
 
+See Docs For Detail Payment Method [Tokopay Documentation](https://docs.tokopay.id/persiapan-awal/metode-pembayaran).
+
 ## Response Types
 
 ### Order Status Response
